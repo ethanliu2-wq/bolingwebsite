@@ -14,7 +14,7 @@ export default function Footer() {
           <Link href="/terms" className="hover:text-foreground transition-colors">
             Terms & Conditions
           </Link>
-          <a href="mailto:info@bolingfoundation.org" className="hover:text-foreground transition-colors">
+          <a href="https://forms.gle/WscPbEyWNasvsLVZA" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
             Contact
           </a>
         </nav>

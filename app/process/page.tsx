@@ -68,7 +68,7 @@ export default function ProcessPage() {
                             <p className="text-sm text-muted mb-6 italic">
                                 All submitted applications undergo a structured review by the Foundation’s grant committee. Proposals are evaluated for clarity, feasibility, alignment with focus areas, and potential for meaningful impact.
                             </p>
-                            <a href="mailto:grants@bolingfoundation.org?subject=Grant%20Application%20Request" className="inline-block w-full text-center px-8 py-4 bg-foreground text-background font-bold uppercase tracking-widest text-sm hover:bg-accent transition-colors">
+                            <a href="https://forms.gle/WscPbEyWNasvsLVZA" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center px-8 py-4 bg-foreground text-background font-bold uppercase tracking-widest text-sm hover:bg-accent transition-colors">
                                 Apply Now
                             </a>
                         </div>
